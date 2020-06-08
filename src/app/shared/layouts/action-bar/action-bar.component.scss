@@ -1,0 +1,17 @@
+.action-bar {
+  height: 48px !important;
+  min-height: 48px !important;
+
+  .action-bar-row {
+    height: 45px !important;
+    min-height: 45px !important;
+    padding-left: 8px;
+    padding-right: 8px;
+
+    .action-bar-button,
+    button {
+      min-width: 48px;
+      padding: 0 16px;
+    }
+  }
+}

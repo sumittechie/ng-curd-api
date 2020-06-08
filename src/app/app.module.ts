@@ -9,10 +9,10 @@ import { FlexLayoutModule } from '@angular/flex-layout';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ReactiveFormsModule, FormsModule } from '@angular/forms';
 import { LoginComponent } from './login/login.component';
-import { TaskHeaderComponent } from './home/task-header/task-header.component';
-import { TaskBodyComponent } from './home/task-body/task-body.component';
+
 import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
 import { HttpHeadersInterceptor } from './shared/http-headers.interceptor';
+import { MenuComponent } from './menu/menu.component';
 
 
 @NgModule({
@@ -21,8 +21,7 @@ import { HttpHeadersInterceptor } from './shared/http-headers.interceptor';
     AppComponent,
     HomeComponent,
     LoginComponent,
-    TaskHeaderComponent,
-    TaskBodyComponent
+    MenuComponent,
   ],
   imports: [
     FormsModule,

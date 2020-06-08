@@ -1,45 +1,34 @@
 <mat-toolbar color="primary" class="fixed-header">
   <div fxLayout fxFlex>
-    <div fxFlex="50" fxLayoutAlign="start center">
-      <mat-button-toggle-group
-        appearance="legacy"
-        #group="matButtonToggleGroup"
-        [value]="selectedWeek"
-        (change)="onWeekChange(group.value)"
-      >
-        <mat-button-toggle value="1">Week 1</mat-button-toggle>
-        <mat-button-toggle color="accent" value="2">Week 2</mat-button-toggle>
-      </mat-button-toggle-group>
+    <div fxFlex="50" class="title" fxLayoutAlign="start center">
+      eCart System
     </div>
     <div fxFlex="50" fxLayoutAlign="end center" fxLayoutGap="30px">
-      <form [formGroup]="form">
-        <mat-form-field appearance="outline" class="task-fields">
-          <mat-select formControlName="team" apperence="fill">
-            <mat-option value="">Choose Team</mat-option>
-            <mat-option *ngFor="let team of teams" [value]="team">{{
-              team.name
-            }}</mat-option>
-          </mat-select>
-        </mat-form-field>
-      </form>
       <button (click)="onLogout()" mat-icon-button matTooltip="Click to logout">
         <mat-icon>exit_to_app</mat-icon>
       </button>
     </div>
   </div>
 </mat-toolbar>
-<div class="home">
-  <ng-container *ngIf="!isLoading">
-    <ng-container *ngIf="selectedWeek === '1'">
-      <app-task-header [days]="weeks[0]"></app-task-header>
-      <app-task-body [tasks]="tasks" [week]="weeks[0]"></app-task-body>
-    </ng-container>
-    <ng-container *ngIf="selectedWeek === '2'">
-      <app-task-header [days]="weeks[1]"></app-task-header>
-      <app-task-body [tasks]="tasks" [week]="weeks[1]"></app-task-body>
-    </ng-container>
-  </ng-container>
-</div>
+
+<mat-sidenav-container class="home-container">
+  <mat-sidenav
+    #sidenav
+    mode="side"
+    opened
+    class="home-sidenav"
+    [fixedInViewport]="false"
+    [fixedTopGap]="0"
+    [fixedBottomGap]="0"
+  >
+    <app-menu></app-menu>
+  </mat-sidenav>
+
+  <mat-sidenav-content>
+    <router-outlet></router-outlet>
+  </mat-sidenav-content>
+</mat-sidenav-container>
+
 <div *ngIf="isLoading" class="loading-indicator">
   <mat-progress-spinner
     mode="indeterminate"

@@ -15,16 +15,16 @@ export class HttpHeadersInterceptor implements HttpInterceptor {
 
   intercept(request: HttpRequest<unknown>, next: HttpHandler): Observable<HttpEvent<unknown>> {
 
-    const userInfo: IUserInfo = JSON.parse(localStorage.getItem('user-info'));
-    if (userInfo) {
-      const token = `${userInfo.user}:${userInfo.password}`;
-      request = request.clone({
-        setHeaders: {
-          'Content-Type': 'application/json',
-          Authorization: 'Basic ' + btoa(token)
-        }
-      });
-    }
+    // const userInfo: IUserInfo = JSON.parse(localStorage.getItem('user-info'));
+    // if (userInfo) {
+    //   const token = `${userInfo.user}:${userInfo.password}`;
+    //   request = request.clone({
+    //     setHeaders: {
+    //       'Content-Type': 'application/json',
+    //       Authorization: 'Basic ' + btoa(token)
+    //     }
+    //   });
+    // }
 
     return next.handle(request);
   }

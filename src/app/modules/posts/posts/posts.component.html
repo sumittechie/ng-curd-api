@@ -1,0 +1,26 @@
+<action-bar>
+  <action-btn icon="add" label="New Post"></action-btn>
+  <action-btn
+    icon="expand_more"
+    label="Expand All"
+    (click)="accordion.openAll()"
+  ></action-btn>
+  <action-btn
+    icon="expand_less"
+    label="Collapse All"
+    (click)="accordion.closeAll()"
+  ></action-btn>
+</action-bar>
+
+<page>
+  <mat-accordion multi>
+    <ng-container *ngFor="let post of posts">
+      <mat-expansion-panel>
+        <mat-expansion-panel-header>
+          {{ post.title }}
+        </mat-expansion-panel-header>
+        {{ post.body }}
+      </mat-expansion-panel>
+    </ng-container>
+  </mat-accordion>
+</page>

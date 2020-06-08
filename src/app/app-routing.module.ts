@@ -6,7 +6,17 @@ import { LoginComponent } from './login/login.component';
 
 
 const routes: Routes = [
-  { path: '', component: HomeComponent, canActivate: [AuthenticateGuard] },
+  {
+    path: '',
+    component: HomeComponent,
+    canActivate: [AuthenticateGuard],
+    children: [
+      {
+        path: 'posts',
+        loadChildren: () => import('./modules/posts/posts.module').then(m => m.PostsModule)
+      },
+    ]
+  },
   { path: 'login', component: LoginComponent },
   { path: '**', redirectTo: '' }
 ];

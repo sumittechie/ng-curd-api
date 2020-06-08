@@ -1,0 +1,18 @@
+.navigation-list {
+    padding-top: 0px;
+  .navigation-item.active {
+    background: #dcf0fb;
+    color: #062639;
+  }
+
+  .navigation-item .mat-icon {
+    margin-right: 5px;
+  }
+  .navigation-item-label {
+    padding-top: 2px;
+  }
+  .navigation-divider {
+    color: #dcf0fb;
+    border-color: #dcf0fb;
+  }
+}
