@@ -1,0 +1,50 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&display=swap');
+
+html, body { height: 100%; }
+body { 
+    margin: 0; 
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    font-size: 14px; 
+}
+
+@import '~@angular/material/theming';
+
+
+$general-typography: mat-typography-config(
+  $button: mat-typography-level(14px, 14px, 500),
+  $font-family: 'Roboto Condensed',
+);
+
+
+@include mat-core($general-typography);
+
+$app-primary: mat-palette($mat-deep-purple);
+$app-accent:  mat-palette($mat-amber, A200, A100, A400);
+$app-theme: mat-light-theme($app-primary, $app-accent);
+
+@mixin mix-app-theme($app-theme) {
+  $primary: map-get($app-theme, primary);
+  $accent: map-get($app-theme, accent);
+
+  .mat-button-toggle {
+    background-color: mat-color($primary);
+    color: mat-color($primary, default-contrast);
+  }
+
+  .mat-button-toggle-checked {
+    background-color: mat-color($accent);
+    color: mat-color($accent, default-contrast);
+  }
+
+ 
+}
+
+// Include the mixin
+@include mix-app-theme($app-theme);
+
+
+.mat-toolbar {
+    font-size: 14px !important;
+}

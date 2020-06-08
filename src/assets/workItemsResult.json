@@ -1,0 +1,2820 @@
+{
+  "count": 29,
+  "value": [
+    {
+      "id": 54982,
+      "rev": 5,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\Predictive Infrastructure",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Closed",
+        "System.Reason": "Acceptance tests pass",
+        "System.AssignedTo": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CreatedDate": "2020-03-19T18:39:22.44Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T17:44:19.693Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "Delete the OpsDash collections from the original CosmosDB ",
+        "System.BoardColumn": "Closed",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 1.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-23T17:44:06.133Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-23T17:44:06.133Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.ResolvedDate": "2020-03-23T17:44:06.133Z",
+        "Microsoft.VSTS.Common.ResolvedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.ClosedDate": "2020-03-23T17:44:06.133Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.StackRank": 5156047.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Closed",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/54982"
+    },
+    {
+      "id": 54324,
+      "rev": 7,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\Geocoding",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Closed",
+        "System.Reason": "Acceptance tests pass",
+        "System.AssignedTo": {
+          "displayName": "Sasha Jordan",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/621b04bf-e61e-6306-97cb-c0e7a15ae007",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3"
+            }
+          },
+          "id": "621b04bf-e61e-6306-97cb-c0e7a15ae007",
+          "uniqueName": "CWK864@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3",
+          "descriptor": "aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3"
+        },
+        "System.CreatedDate": "2020-03-17T16:26:11.09Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T16:08:00.06Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "Design a build pipeline for GeoLocation library",
+        "System.BoardColumn": "Closed",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 1.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-23T16:08:00.06Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-17T16:28:20.88Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.ResolvedDate": "2020-03-20T18:23:35.36Z",
+        "Microsoft.VSTS.Common.ResolvedBy": {
+          "displayName": "Sasha Jordan",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/621b04bf-e61e-6306-97cb-c0e7a15ae007",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3"
+            }
+          },
+          "id": "621b04bf-e61e-6306-97cb-c0e7a15ae007",
+          "uniqueName": "CWK864@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3",
+          "descriptor": "aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3"
+        },
+        "Microsoft.VSTS.Common.ClosedDate": "2020-03-23T16:08:00.06Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.StackRank": 5158318.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Closed",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Description": "<div>We need a build pipeline for the new geocoding library.</div>",
+        "Microsoft.VSTS.Common.AcceptanceCriteria": "<ol><li>Builds the .net core project</li><li>Runs the tests</li><li>Creates nuget package</li><li>Push the nuget package to the `PredictiveTeam` internal Nuget Feed.</li></ol>"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/54324"
+    },
+    {
+      "id": 54101,
+      "rev": 7,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\OperationsDashboard",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Active",
+        "System.Reason": "Implementation started",
+        "System.AssignedTo": {
+          "displayName": "Sasha Jordan",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/621b04bf-e61e-6306-97cb-c0e7a15ae007",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3"
+            }
+          },
+          "id": "621b04bf-e61e-6306-97cb-c0e7a15ae007",
+          "uniqueName": "CWK864@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3",
+          "descriptor": "aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3"
+        },
+        "System.CreatedDate": "2020-03-16T18:13:25.81Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-20T20:35:11.797Z",
+        "System.ChangedBy": {
+          "displayName": "Sasha Jordan",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/621b04bf-e61e-6306-97cb-c0e7a15ae007",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3"
+            }
+          },
+          "id": "621b04bf-e61e-6306-97cb-c0e7a15ae007",
+          "uniqueName": "CWK864@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3",
+          "descriptor": "aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "Send emails when people are tagged in Ops Dash Alerts",
+        "System.BoardColumn": "Active",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 3.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-20T20:35:11.797Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-20T20:35:11.797Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Sasha Jordan",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/621b04bf-e61e-6306-97cb-c0e7a15ae007",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3"
+            }
+          },
+          "id": "621b04bf-e61e-6306-97cb-c0e7a15ae007",
+          "uniqueName": "CWK864@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3",
+          "descriptor": "aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3"
+        },
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.StackRank": 5160589.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Active",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Description": "<div>Operations Dashboard sends emails to people with whom an alert is shared through the highlighted functionality below, and it is called &quot;Sharing an alert&quot;.</div><div><br></div><div><img src=\"https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/attachments/320d5e84-e2d6-4781-bcb6-ee8249a3f473?fileName=image.png\" alt=Image width=547 height=335 style=\"width:547px;\"><br></div><div><br></div><div>We want to use the same email notification functionality being used with the &quot;Sharing alert&quot; for when people are tagged in the following places:</div><div><ol><li>Action Plans -- Currently, the action plans do not support tagging as requested as part of&nbsp;<a href=\"https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_workitems/edit/53688\" data-vss-mention=\"version:1.0\">#53688</a>, so we need to follow up on that to be able to finish this up.&nbsp;</li><li>Action Plan Tasks</li><li>Activities</li></ol><div>An example of tagging can be seen below:</div></div><div><br></div><div><img src=\"https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/attachments/f46049d4-1239-4b7b-9292-cf7982e54a02?fileName=image.png\" alt=Image width=469 height=284 style=\"width:469px;height:284px;\"><br></div><div><br></div><div>If you need more information, please reach out to <a href=\"#\" data-vss-mention=\"version:2.0,403a7938-0389-69b6-93fb-1062617fb212\">@Harish Majeti</a>&nbsp;and <a href=\"#\" data-vss-mention=\"version:2.0,62b71cc3-d9c9-6d1a-a08b-6909b590d987\">@James Bloom</a>. <a href=\"#\" data-vss-mention=\"version:2.0,403a7938-0389-69b6-93fb-1062617fb212\">@Harish Majeti</a>&nbsp;is the original developer of the email notifications with alert sharing.</div>",
+        "Microsoft.VSTS.Common.AcceptanceCriteria": "<div>Sending a notification email to the tagged people:<br><ol style=\"box-sizing:border-box;padding-left:40px;\"><li style=\"box-sizing:border-box;\">Action Plans</li><li style=\"box-sizing:border-box;\">Action Plan Tasks</li><li style=\"box-sizing:border-box;\">Activities</li></ol><br></div>"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/54101"
+    },
+    {
+      "id": 54099,
+      "rev": 7,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\LexisNexis Connector",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Active",
+        "System.Reason": "Implementation started",
+        "System.AssignedTo": {
+          "displayName": "Harish Majeti",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/403a7938-0389-69b6-93fb-1062617fb212",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NDAzYTc5MzgtMDM4OS03OWI2LTkzZmItMTA2MjYxN2ZiMjEy"
+            }
+          },
+          "id": "403a7938-0389-69b6-93fb-1062617fb212",
+          "uniqueName": "RNC784@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NDAzYTc5MzgtMDM4OS03OWI2LTkzZmItMTA2MjYxN2ZiMjEy",
+          "descriptor": "aad.NDAzYTc5MzgtMDM4OS03OWI2LTkzZmItMTA2MjYxN2ZiMjEy"
+        },
+        "System.CreatedDate": "2020-03-16T18:00:57.383Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-17T16:08:06.487Z",
+        "System.ChangedBy": {
+          "displayName": "Harish Majeti",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/403a7938-0389-69b6-93fb-1062617fb212",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NDAzYTc5MzgtMDM4OS03OWI2LTkzZmItMTA2MjYxN2ZiMjEy"
+            }
+          },
+          "id": "403a7938-0389-69b6-93fb-1062617fb212",
+          "uniqueName": "RNC784@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NDAzYTc5MzgtMDM4OS03OWI2LTkzZmItMTA2MjYxN2ZiMjEy",
+          "descriptor": "aad.NDAzYTc5MzgtMDM4OS03OWI2LTkzZmItMTA2MjYxN2ZiMjEy"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "Design a solution that generates BDP connection strings dynamically in the DF deployment scripts ",
+        "System.BoardColumn": "Active",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 3.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-17T16:08:06.487Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-17T16:08:06.487Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Harish Majeti",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/403a7938-0389-69b6-93fb-1062617fb212",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NDAzYTc5MzgtMDM4OS03OWI2LTkzZmItMTA2MjYxN2ZiMjEy"
+            }
+          },
+          "id": "403a7938-0389-69b6-93fb-1062617fb212",
+          "uniqueName": "RNC784@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NDAzYTc5MzgtMDM4OS03OWI2LTkzZmItMTA2MjYxN2ZiMjEy",
+          "descriptor": "aad.NDAzYTc5MzgtMDM4OS03OWI2LTkzZmItMTA2MjYxN2ZiMjEy"
+        },
+        "Microsoft.VSTS.Common.Priority": 1,
+        "Microsoft.VSTS.Common.StackRank": 5162861.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Active",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/54099"
+    },
+    {
+      "id": 53689,
+      "rev": 7,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\OperationsDashboard",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.AssignedTo": {
+          "displayName": "Harish Majeti",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/403a7938-0389-69b6-93fb-1062617fb212",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NDAzYTc5MzgtMDM4OS03OWI2LTkzZmItMTA2MjYxN2ZiMjEy"
+            }
+          },
+          "id": "403a7938-0389-69b6-93fb-1062617fb212",
+          "uniqueName": "RNC784@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NDAzYTc5MzgtMDM4OS03OWI2LTkzZmItMTA2MjYxN2ZiMjEy",
+          "descriptor": "aad.NDAzYTc5MzgtMDM4OS03OWI2LTkzZmItMTA2MjYxN2ZiMjEy"
+        },
+        "System.CreatedDate": "2020-03-12T23:36:32.09Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-16T18:08:52.61Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "Show a simple bar chart for comparison between old incident number and the new one in Crime Trend Alerts",
+        "System.BoardColumn": "New",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 1.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-12T23:36:32.09Z",
+        "Microsoft.VSTS.Common.Priority": 1,
+        "Microsoft.VSTS.Common.StackRank": 5163997.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "New",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Description": "<div>We need a simple bar chart in the content area of Crime Trend alerts which shows two bars. The first bar shows the old incident number, and the other bar shows the new incident number. The difference between these incidents numbers triggered the alert, so these bars represent these numbers.</div><div><br></div><div>Just to be on the same page about the bar chart, this is how a sample bar chart looks like:</div><div><br></div><div><img src=\"https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/attachments/5f6dbcca-1c2e-4f43-b8c2-81ea5f006387?fileName=image.png\" alt=Image width=385 height=227 style=\"width:385px;height:227px;\"><br></div>"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/53689"
+    },
+    {
+      "id": 54098,
+      "rev": 11,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\OperationsDashboard",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Closed",
+        "System.Reason": "Acceptance tests pass",
+        "System.AssignedTo": {
+          "displayName": "Sasha Jordan",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/621b04bf-e61e-6306-97cb-c0e7a15ae007",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3"
+            }
+          },
+          "id": "621b04bf-e61e-6306-97cb-c0e7a15ae007",
+          "uniqueName": "CWK864@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3",
+          "descriptor": "aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3"
+        },
+        "System.CreatedDate": "2020-03-16T17:54:49.503Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T17:45:12.99Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "Sort the new column in a way that the oldest alerts are at the top",
+        "System.BoardColumn": "Closed",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 2.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-23T17:45:12.99Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-19T21:32:20.107Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Sasha Jordan",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/621b04bf-e61e-6306-97cb-c0e7a15ae007",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3"
+            }
+          },
+          "id": "621b04bf-e61e-6306-97cb-c0e7a15ae007",
+          "uniqueName": "CWK864@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3",
+          "descriptor": "aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3"
+        },
+        "Microsoft.VSTS.Common.ResolvedDate": "2020-03-20T22:55:01.023Z",
+        "Microsoft.VSTS.Common.ResolvedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.ClosedDate": "2020-03-23T17:45:12.99Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.StackRank": 5165133.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Closed",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Description": "<div>We need the following column to be sorted in a way that the oldest alerts are at the top and the newest ones are at the bottom:</div><div><br></div><div><img src=\"https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/attachments/478bbfe8-d64b-4c09-ac39-5e6d803c5c3a?fileName=image.png\" alt=Image width=401 height=572 style=\"width:401px;height:572px;\"><br></div><div><br></div><div>Please check the following screenshot for the current implementation:</div><div><br></div><div><img src=\"https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/attachments/dbcee14f-c39d-45a0-be93-ae9fa43ec3d5?fileName=image.png\" alt=Image><br></div><div><br></div><div><b>Important Note:</b></div><div><br></div><div>The sort dropdown does not show up when there is no item in Active/Snoozed/etc. tab even if New column has items in it. This is a bug, but once you complete this story, this bug becomes corrected automatically since it won't matter for the new column anymore.</div><div><br></div>",
+        "Microsoft.VSTS.Common.AcceptanceCriteria": "<div><ol><li>New column is sorted by created time asc</li><li>Sort dropdown does not change the sort of the new column anymore.</li></ol></div>"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/54098"
+    },
+    {
+      "id": 54095,
+      "rev": 7,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\CrimeData Ingest Pipeline",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Closed",
+        "System.Reason": "Acceptance tests pass",
+        "System.AssignedTo": {
+          "displayName": "Sasha Jordan",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/621b04bf-e61e-6306-97cb-c0e7a15ae007",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3"
+            }
+          },
+          "id": "621b04bf-e61e-6306-97cb-c0e7a15ae007",
+          "uniqueName": "CWK864@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3",
+          "descriptor": "aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3"
+        },
+        "System.CreatedDate": "2020-03-16T17:46:16.467Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T15:38:43.923Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "Replace IPP geocoding with the new geocoding nuget package",
+        "System.BoardColumn": "Closed",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 1.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-23T15:38:43.923Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-19T21:16:15.267Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Sasha Jordan",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/621b04bf-e61e-6306-97cb-c0e7a15ae007",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3"
+            }
+          },
+          "id": "621b04bf-e61e-6306-97cb-c0e7a15ae007",
+          "uniqueName": "CWK864@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3",
+          "descriptor": "aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3"
+        },
+        "Microsoft.VSTS.Common.ResolvedDate": "2020-03-19T21:16:15.267Z",
+        "Microsoft.VSTS.Common.ResolvedBy": {
+          "displayName": "Sasha Jordan",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/621b04bf-e61e-6306-97cb-c0e7a15ae007",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3"
+            }
+          },
+          "id": "621b04bf-e61e-6306-97cb-c0e7a15ae007",
+          "uniqueName": "CWK864@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3",
+          "descriptor": "aad.NjIxYjA0YmYtZTYxZS03MzA2LTk3Y2ItYzBlN2ExNWFlMDA3"
+        },
+        "Microsoft.VSTS.Common.ClosedDate": "2020-03-23T15:38:43.923Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.StackRank": 5167406.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Closed",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Description": "<div>IPP should use the new geolocation library instead of having the duplicate code there.</div>"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/54095"
+    },
+    {
+      "id": 53322,
+      "rev": 17,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\LexisNexis Connector",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Closed",
+        "System.Reason": "Acceptance tests pass",
+        "System.AssignedTo": {
+          "displayName": "James Bloom",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+            }
+          },
+          "id": "62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "uniqueName": "DGNH46@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3",
+          "descriptor": "aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+        },
+        "System.CreatedDate": "2020-03-11T16:09:58.91Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T21:01:58.327Z",
+        "System.ChangedBy": {
+          "displayName": "James Bloom",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+            }
+          },
+          "id": "62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "uniqueName": "DGNH46@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3",
+          "descriptor": "aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+        },
+        "System.CommentCount": 1,
+        "System.Title": "Convert Law schema to our incident schema",
+        "System.BoardColumn": "Closed",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 3.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-23T21:01:58.327Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-16T16:49:32.057Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "James Bloom",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+            }
+          },
+          "id": "62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "uniqueName": "DGNH46@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3",
+          "descriptor": "aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+        },
+        "Microsoft.VSTS.Common.ResolvedDate": "2020-03-23T21:01:58.327Z",
+        "Microsoft.VSTS.Common.ResolvedBy": {
+          "displayName": "James Bloom",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+            }
+          },
+          "id": "62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "uniqueName": "DGNH46@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3",
+          "descriptor": "aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+        },
+        "Microsoft.VSTS.Common.ClosedDate": "2020-03-23T21:01:58.327Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "James Bloom",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+            }
+          },
+          "id": "62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "uniqueName": "DGNH46@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3",
+          "descriptor": "aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+        },
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.StackRank": 5169679.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Closed",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Description": "<div>We need to convert the law/case schema to our incident schema in LexisNexis.&nbsp;</div><div><br></div><div>The law schema with person example:</div><div><a href=\"https://msi-cie.visualstudio.com/OneRMS/_git/OneRMS-JSON-Schemas?path=/schemas/v1.0/Law/samples/law.sample-with-persons.json\">https://msi-cie.visualstudio.com/OneRMS/_git/OneRMS-JSON-Schemas?path=%2Fschemas%2Fv1.0%2FLaw%2Fsamples%2Flaw.sample-with-persons.json</a><br></div><div><br></div><div>Our schema can be seen here:&nbsp;<a href=\"https://docs.google.com/document/d/17iceHEt2fvHzGX7P_RcOGAAFbOjyeKhFDnX-bPe6ZOg/edit\">https://docs.google.com/document/d/17iceHEt2fvHzGX7P_RcOGAAFbOjyeKhFDnX-bPe6ZOg/edit</a></div>",
+        "System.History": "Completing Pull Request 74453 and the associated work items."
+      },
+      "commentVersionRef": {
+        "commentId": 3284905,
+        "version": 1,
+        "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/53322/comments/3284905/versions/1"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/53322"
+    },
+    {
+      "id": 53346,
+      "rev": 11,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\LexisNexis Connector",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Closed",
+        "System.Reason": "Acceptance tests pass",
+        "System.AssignedTo": {
+          "displayName": "James Bloom",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+            }
+          },
+          "id": "62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "uniqueName": "DGNH46@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3",
+          "descriptor": "aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+        },
+        "System.CreatedDate": "2020-03-11T17:05:12.893Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T21:01:58.327Z",
+        "System.ChangedBy": {
+          "displayName": "James Bloom",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+            }
+          },
+          "id": "62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "uniqueName": "DGNH46@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3",
+          "descriptor": "aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+        },
+        "System.CommentCount": 1,
+        "System.Title": "Resolve code table references to actual values using LSM in LNIC",
+        "System.BoardColumn": "Closed",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 2.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-23T21:01:58.327Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-16T16:06:54.48Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "James Bloom",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+            }
+          },
+          "id": "62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "uniqueName": "DGNH46@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3",
+          "descriptor": "aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+        },
+        "Microsoft.VSTS.Common.ResolvedDate": "2020-03-23T21:01:58.327Z",
+        "Microsoft.VSTS.Common.ResolvedBy": {
+          "displayName": "James Bloom",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+            }
+          },
+          "id": "62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "uniqueName": "DGNH46@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3",
+          "descriptor": "aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+        },
+        "Microsoft.VSTS.Common.ClosedDate": "2020-03-23T21:01:58.327Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "James Bloom",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+            }
+          },
+          "id": "62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "uniqueName": "DGNH46@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3",
+          "descriptor": "aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+        },
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.StackRank": 5171953.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Closed",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Description": "<div>Case documents use code tables references for some of their fields and these fields must be retrieved from LSM service to resolve them to actual values that can be used in the final incident document that is going to be mapped to LexisNexis XML document.</div>",
+        "System.History": "Completing Pull Request 74453 and the associated work items."
+      },
+      "commentVersionRef": {
+        "commentId": 3284907,
+        "version": 1,
+        "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/53346/comments/3284907/versions/1"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/53346"
+    },
+    {
+      "id": 53333,
+      "rev": 12,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\LexisNexis Connector",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Closed",
+        "System.Reason": "Acceptance tests pass",
+        "System.AssignedTo": {
+          "displayName": "James Bloom",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+            }
+          },
+          "id": "62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "uniqueName": "DGNH46@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3",
+          "descriptor": "aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+        },
+        "System.CreatedDate": "2020-03-11T16:28:54.683Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T21:01:58.327Z",
+        "System.ChangedBy": {
+          "displayName": "James Bloom",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+            }
+          },
+          "id": "62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "uniqueName": "DGNH46@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3",
+          "descriptor": "aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+        },
+        "System.CommentCount": 1,
+        "System.Title": "Geocode documents in LexisNexisIncidentConnector using Geocoding Library ",
+        "System.BoardColumn": "Closed",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 2.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-23T21:01:58.327Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-19T20:20:00.943Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "James Bloom",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+            }
+          },
+          "id": "62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "uniqueName": "DGNH46@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3",
+          "descriptor": "aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+        },
+        "Microsoft.VSTS.Common.ResolvedDate": "2020-03-23T21:01:58.327Z",
+        "Microsoft.VSTS.Common.ResolvedBy": {
+          "displayName": "James Bloom",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+            }
+          },
+          "id": "62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "uniqueName": "DGNH46@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3",
+          "descriptor": "aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+        },
+        "Microsoft.VSTS.Common.ClosedDate": "2020-03-23T21:01:58.327Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "James Bloom",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+            }
+          },
+          "id": "62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "uniqueName": "DGNH46@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3",
+          "descriptor": "aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+        },
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.StackRank": 5174227.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Closed",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Description": "<div>We are extracting the geocoding logic from IncidentProcessingPipeline as part of <a href=\"https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_workitems/edit/52964\" data-vss-mention=\"version:1.0\">#52964</a></div><div><br></div><div>We need to use this new library in LexisNexisIncidentConnector service to geocode the incoming documents.</div>",
+        "System.History": "Completing Pull Request 74453 and the associated work items."
+      },
+      "commentVersionRef": {
+        "commentId": 3284906,
+        "version": 1,
+        "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/53333/comments/3284906/versions/1"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/53333"
+    },
+    {
+      "id": 51332,
+      "rev": 9,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\OperationsDashboard",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.AssignedTo": {
+          "displayName": "James Bloom",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+            }
+          },
+          "id": "62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "uniqueName": "DGNH46@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3",
+          "descriptor": "aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+        },
+        "System.CreatedDate": "2020-02-27T21:17:28.22Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-19T15:25:33.16Z",
+        "System.ChangedBy": {
+          "displayName": "James Bloom",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+            }
+          },
+          "id": "62b71cc3-d9c9-6d1a-a08b-6909b590d987",
+          "uniqueName": "DGNH46@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3",
+          "descriptor": "aad.NjJiNzFjYzMtZDljOS03ZDFhLWEwOGItNjkwOWI1OTBkOTg3"
+        },
+        "System.CommentCount": 1,
+        "System.Title": "Spike: Understand the work involved in moving to CC Drive",
+        "System.BoardColumn": "New",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 2.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-02-27T21:17:28.22Z",
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.StackRank": 5175364.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "New",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Description": "<div><img src=\"https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/attachments/a6ee4064-71bd-44e8-9823-d04c3910b3be?fileName=image.png\" alt=Image><br></div>",
+        "Microsoft.VSTS.Common.AcceptanceCriteria": "<div><ol><li>A diagram that shows the requests and responses among different endpoints.</li></ol></div>"
+      },
+      "commentVersionRef": {
+        "commentId": 3260951,
+        "version": 2,
+        "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/51332/comments/3260951/versions/2"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/51332"
+    },
+    {
+      "id": 51028,
+      "rev": 14,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\LexisNexis Connector",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.AssignedTo": {
+          "displayName": "Daniel Snarr",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b482008-0ac4-6551-b0a8-d87ca1f0abf2",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWI0ODIwMDgtMGFjNC03NTUxLWIwYTgtZDg3Y2ExZjBhYmYy"
+            }
+          },
+          "id": "9b482008-0ac4-6551-b0a8-d87ca1f0abf2",
+          "uniqueName": "XHRN74@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWI0ODIwMDgtMGFjNC03NTUxLWIwYTgtZDg3Y2ExZjBhYmYy",
+          "descriptor": "aad.OWI0ODIwMDgtMGFjNC03NTUxLWIwYTgtZDg3Y2ExZjBhYmYy"
+        },
+        "System.CreatedDate": "2020-02-26T19:32:00.757Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-17T23:03:19.5Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "Add Ingress definition to the deploy file of LexisNexisIncidentConnector",
+        "System.BoardColumn": "New",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 1.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-02-26T19:32:00.757Z",
+        "Microsoft.VSTS.Common.Priority": 1,
+        "Microsoft.VSTS.Common.StackRank": 5176502.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "New",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Description": "<div>Since LexisNexisIncidentConnector project is becoming a web project, it needs a URL to be accessed. Hence, it needs an Ingress definition in its `deploy.yml` file that follows the same master/minion Ingress approach in the Alerts Service project:&nbsp;<a href=\"https://dev.azure.com/msi-cie/Predictive/_git/AlertsService?path=/Deployment/deploy.yml&amp;version=GBmaster&amp;line=90&amp;lineEnd=147&amp;lineStartColumn=1&amp;lineEndColumn=41&amp;lineStyle=plain\">https://dev.azure.com/msi-cie/Predictive/_git/AlertsService?path=%2FDeployment%2Fdeploy.yml&amp;version=GBmaster&amp;line=90&amp;lineEnd=147&amp;lineStartColumn=1&amp;lineEndColumn=41&amp;lineStyle=plain</a></div><div><br></div><div>LexisNexisIncidentConnector might not have the Swagger endpoints available at the time of writing this description but talk to <a href=\"#\" data-vss-mention=\"version:2.0,62b71cc3-d9c9-6d1a-a08b-6909b590d987\">@James Bloom</a>&nbsp;about the plans since he is converting LexisNexisIncidentConnector from being a simple background service to a web service. If the swagger endpoint is not available, still add the Ingress JWT validation exceptions for the potential Swagger URLs so that we don't have to come back to this project and add these exceptions when the actual endpoints for Swagger become available.</div><div><br></div><div>The URL of this service will be:&nbsp;</div><div><a href=\"https://lexisnexis.dev.commandcentral.com/connector/api/v1\">https://lexisnexis.dev.commandcentral.com/connector/api/v1</a></div><div><br></div><div><br></div>",
+        "Microsoft.VSTS.Common.AcceptanceCriteria": "<ol><li>Accessible through <a href=\"https://lexisnexis.envname.commandcentral.com/connector/api/v1\">https://lexisnexis.envname.commandcentral.com/connector/api/v1</a></li><li>All of the endpoints except for Swagger endpoints REQUIRE JWT validation, hence an access token through the ingress definition</li><li>Swagger endpoints don't require JWT but they require the visitors to be coming from Motorola IP addresses</li><li>Product URL (lexisnexis.envname.commandcentral.com/connector/ingest/v1) comes from the Variable Libraries in the release pipeline stages</li></ol>"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/51028"
+    },
+    {
+      "id": 52970,
+      "rev": 17,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\CrimeData Ingest Pipeline",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Closed",
+        "System.Reason": "Acceptance tests pass",
+        "System.AssignedTo": {
+          "displayName": "Daniel Snarr",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b482008-0ac4-6551-b0a8-d87ca1f0abf2",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWI0ODIwMDgtMGFjNC03NTUxLWIwYTgtZDg3Y2ExZjBhYmYy"
+            }
+          },
+          "id": "9b482008-0ac4-6551-b0a8-d87ca1f0abf2",
+          "uniqueName": "XHRN74@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWI0ODIwMDgtMGFjNC03NTUxLWIwYTgtZDg3Y2ExZjBhYmYy",
+          "descriptor": "aad.OWI0ODIwMDgtMGFjNC03NTUxLWIwYTgtZDg3Y2ExZjBhYmYy"
+        },
+        "System.CreatedDate": "2020-03-09T23:04:58.233Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-20T22:52:51.37Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "Erase all of the data from processed-incidents collection in Cosmos DB",
+        "System.BoardColumn": "Closed",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 1.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-20T22:52:51.37Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-12T15:30:09.577Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Daniel Snarr",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b482008-0ac4-6551-b0a8-d87ca1f0abf2",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWI0ODIwMDgtMGFjNC03NTUxLWIwYTgtZDg3Y2ExZjBhYmYy"
+            }
+          },
+          "id": "9b482008-0ac4-6551-b0a8-d87ca1f0abf2",
+          "uniqueName": "XHRN74@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWI0ODIwMDgtMGFjNC03NTUxLWIwYTgtZDg3Y2ExZjBhYmYy",
+          "descriptor": "aad.OWI0ODIwMDgtMGFjNC03NTUxLWIwYTgtZDg3Y2ExZjBhYmYy"
+        },
+        "Microsoft.VSTS.Common.ResolvedDate": "2020-03-16T17:42:43.31Z",
+        "Microsoft.VSTS.Common.ResolvedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.ClosedDate": "2020-03-20T22:52:51.37Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.Priority": 1,
+        "Microsoft.VSTS.Common.StackRank": 5177071.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Closed",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Description": "<div>We need to empty out the processed-incident collection for each of the following environment:</div><div><ol><li>Dev</li><li>QA</li><li>Stage</li><li>Prod</li></ol></div>"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/52970"
+    },
+    {
+      "id": 52194,
+      "rev": 14,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\Predictive Infrastructure",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Active",
+        "System.Reason": "Implementation started",
+        "System.AssignedTo": {
+          "displayName": "Daniel Snarr",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b482008-0ac4-6551-b0a8-d87ca1f0abf2",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWI0ODIwMDgtMGFjNC03NTUxLWIwYTgtZDg3Y2ExZjBhYmYy"
+            }
+          },
+          "id": "9b482008-0ac4-6551-b0a8-d87ca1f0abf2",
+          "uniqueName": "XHRN74@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWI0ODIwMDgtMGFjNC03NTUxLWIwYTgtZDg3Y2ExZjBhYmYy",
+          "descriptor": "aad.OWI0ODIwMDgtMGFjNC03NTUxLWIwYTgtZDg3Y2ExZjBhYmYy"
+        },
+        "System.CreatedDate": "2020-03-04T17:00:36.14Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T17:44:34.927Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "Hide Swagger endpoints for IPs outside of MSI network",
+        "System.BoardColumn": "Active",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 2.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-16T19:12:30.827Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-16T19:12:30.827Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Daniel Snarr",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b482008-0ac4-6551-b0a8-d87ca1f0abf2",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWI0ODIwMDgtMGFjNC03NTUxLWIwYTgtZDg3Y2ExZjBhYmYy"
+            }
+          },
+          "id": "9b482008-0ac4-6551-b0a8-d87ca1f0abf2",
+          "uniqueName": "XHRN74@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWI0ODIwMDgtMGFjNC03NTUxLWIwYTgtZDg3Y2ExZjBhYmYy",
+          "descriptor": "aad.OWI0ODIwMDgtMGFjNC03NTUxLWIwYTgtZDg3Y2ExZjBhYmYy"
+        },
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.StackRank": 5177640.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Active",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/52194"
+    },
+    {
+      "id": 54385,
+      "rev": 11,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\OperationsDashboard",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Closed",
+        "System.Reason": "Acceptance tests pass",
+        "System.AssignedTo": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "System.CreatedDate": "2020-03-17T19:13:06.447Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T23:14:14.64Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 2,
+        "System.Title": "Move the due date to the bottom of the card right side of the calendar icon",
+        "System.BoardColumn": "Closed",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 0.5,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-23T23:14:14.64Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-17T19:16:38.303Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.ResolvedDate": "2020-03-23T18:06:08.023Z",
+        "Microsoft.VSTS.Common.ResolvedBy": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "Microsoft.VSTS.Common.ClosedDate": "2020-03-23T23:14:14.64Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.StackRank": 5180295.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Closed",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Description": "<div>Please check the following screenshot.&nbsp;</div><div><br></div><div><img src=\"https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/attachments/1c950ac9-c698-426a-b86c-278e2217c646?fileName=image.png\" alt=Image width=284 height=217 style=\"width:284px;height:217px;\"><br></div>",
+        "System.Tags": "PdM; Scope Creep; UI"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/54385"
+    },
+    {
+      "id": 53687,
+      "rev": 18,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\OperationsDashboard",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Resolved",
+        "System.Reason": "Code complete and unit tests pass",
+        "System.AssignedTo": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "System.CreatedDate": "2020-03-12T23:23:48.147Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T18:06:11.657Z",
+        "System.ChangedBy": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "System.CommentCount": 4,
+        "System.Title": "Display text values of the Shift field of Predictive records instead of the ID value",
+        "System.BoardColumn": "Resolved",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 0.5,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-23T18:06:11.657Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-16T19:29:26.607Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "Microsoft.VSTS.Common.ResolvedDate": "2020-03-23T18:06:11.657Z",
+        "Microsoft.VSTS.Common.ResolvedBy": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "Microsoft.VSTS.Common.Priority": 1,
+        "Microsoft.VSTS.Common.StackRank": 5181622.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Resolved",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "Microsoft.VSTS.Common.AcceptanceCriteria": "<div>Currently, our prediction cards are showing numbers 1, 2, 3, etc. for the shift field as shown below:</div><div><br></div><div><img src=\"https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/attachments/7ba23ec5-4616-44ad-bc51-44289afaad61?fileName=image.png\" alt=Image style=\"width:248px;\" width=248 height=178><div style=\"background-color:rgb(219, 98, 108);cursor:nw-resize;top:-3px;left:-3px;\"></div><div style=\"background-color:rgb(219, 98, 108);cursor:ne-resize;top:-3px;right:-3px;\"></div><div style=\"background-color:rgb(219, 98, 108);cursor:sw-resize;bottom:-3px;left:-3px;\"></div><div style=\"background-color:rgb(219, 98, 108);cursor:se-resize;bottom:-3px;right:-3px;\"></div><div style=\"top:0px;left:0px;right:0px;bottom:0px;border:1px solid rgb(219, 98, 108);pointer-events:none;\"></div></div><br><div><br></div><div>However, it needs to be replaced with the following text values:</div><div><br></div><div><div style=\"position:relative;display:inline-flex;\"><div style=\"position:absolute;width:7px;height:7px;background-color:rgb(219, 98, 108);cursor:nw-resize;top:-3px;left:-3px;\"></div><div style=\"position:absolute;width:7px;height:7px;background-color:rgb(219, 98, 108);cursor:ne-resize;top:-3px;right:-3px;\"></div><div style=\"position:absolute;width:7px;height:7px;background-color:rgb(219, 98, 108);cursor:sw-resize;bottom:-3px;left:-3px;\"></div><div style=\"position:absolute;width:7px;height:7px;background-color:rgb(219, 98, 108);cursor:se-resize;bottom:-3px;right:-3px;\"></div><div style=\"position:absolute;top:0px;left:0px;right:0px;bottom:0px;border:1px solid rgb(219, 98, 108);pointer-events:none;\"></div></div><img src=\"https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/attachments/a795aba3-6f32-4a9c-a37d-6bf84cc842cf?fileName=image.png\" alt=Image width=207 height=226 style=\"width:207px;height:226px;\"></div><div><br></div><div>The shift field comes from Predictive endpoint, which is used to generate prediction alerts daily. <a href=\"#\" data-vss-mention=\"version:2.0,86be27bb-eff8-6470-8fd9-5158768c9799\">@Brandon Christensen</a>&nbsp;is the person who maintains this endpoint, and coordination is necessary with him. He has the code ready that returns these textual shift values rather than the numbers from the prediction endpoints. Once he merges his code into the Predictive project's production branch, our code should in Operations Dashboard must be ready to use this field instead of as Shift ID won't be given us anymore.&nbsp;</div><div><br></div><div>Once our code is changed to use Shift Textual Value rather than ID, the existing data won't be compatible with the code. Hence, all of our test data will have to be dropped too. Coordinate with <a href=\"#\" data-vss-mention=\"version:2.0,403a7938-0389-69b6-93fb-1062617fb212\">@Harish Majeti</a>&nbsp;and <a href=\"#\" data-vss-mention=\"version:2.0,daa18f04-744a-4fc2-b972-39f4ae815de6\">@Tarik Guney</a>&nbsp;for more information.</div>"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/53687"
+    },
+    {
+      "id": 51017,
+      "rev": 39,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\Common Header",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Closed",
+        "System.Reason": "Acceptance tests pass",
+        "System.AssignedTo": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "System.CreatedDate": "2020-02-26T19:14:55.453Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T23:15:30.36Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 11,
+        "System.Title": "Add Reporting link and icon to the new common header",
+        "System.BoardColumn": "Closed",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 2.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-23T23:15:30.36Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-04T20:51:46.337Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "Microsoft.VSTS.Common.ResolvedDate": "2020-03-18T20:17:57.27Z",
+        "Microsoft.VSTS.Common.ResolvedBy": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "Microsoft.VSTS.Common.ClosedDate": "2020-03-23T23:15:30.36Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.Priority": 1,
+        "Microsoft.VSTS.Common.StackRank": 5183329.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Closed",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Description": "<div>We need to add the following link with the icon to the common header. We are not changing the waffle menu to the list menu as shown below. The design, at the time it was completed, was not final and required Alam's feedback. Based on the feedback, the actual design will be like how it is shown in&nbsp;<a href=\"https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_workitems/edit/51466\" data-vss-mention=\"version:1.0\">#51466</a>&nbsp;</div><div><br></div><div><img src=\"https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/attachments/449007a3-a5c8-4270-b0c4-ae079cc11810?fileName=image.png\" alt=Image><br></div><div><br></div>",
+        "System.Tags": "CommonHeader; Operations Dashboard; UI"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/51017"
+    },
+    {
+      "id": 51016,
+      "rev": 30,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\Common Header",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Closed",
+        "System.Reason": "Acceptance tests pass",
+        "System.AssignedTo": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "System.CreatedDate": "2020-02-26T19:14:18.75Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T23:15:30.36Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 2,
+        "System.Title": "Add CC Records link and icon to the new common header",
+        "System.BoardColumn": "Closed",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 1.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-23T23:15:30.36Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-11T16:04:15.87Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.ResolvedDate": "2020-03-18T20:17:57.27Z",
+        "Microsoft.VSTS.Common.ResolvedBy": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "Microsoft.VSTS.Common.ClosedDate": "2020-03-23T23:15:30.36Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.Priority": 1,
+        "Microsoft.VSTS.Common.StackRank": 5184088.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Closed",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Description": "<div>The icon and wording for the new CC Records is shown in the screenshot below:</div><div><br></div><div><img src=\"https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/attachments/dfb4f13d-109d-48e8-a02a-5b9aa5fc4563?fileName=image.png\" alt=Image width=383 height=477 style=\"width:383px;height:477px;\"><br></div>",
+        "System.Tags": "CommonHeader; Operations Dashboard; UI"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/51016"
+    },
+    {
+      "id": 51469,
+      "rev": 13,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\Common Header",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Closed",
+        "System.Reason": "Acceptance tests pass",
+        "System.AssignedTo": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "System.CreatedDate": "2020-02-28T16:53:37.94Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T23:15:30.36Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 1,
+        "System.Title": "Application that use doesn't have permission will be grouped under find more apps",
+        "System.BoardColumn": "Closed",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 0.5,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-23T23:15:30.36Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-16T17:38:49.933Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.ResolvedDate": "2020-03-18T20:17:57.27Z",
+        "Microsoft.VSTS.Common.ResolvedBy": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "Microsoft.VSTS.Common.ClosedDate": "2020-03-23T23:15:30.36Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.StackRank": 5188022.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Closed",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Tags": "CommonHeader"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/51469"
+    },
+    {
+      "id": 51466,
+      "rev": 18,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\Common Header",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Closed",
+        "System.Reason": "Acceptance tests pass",
+        "System.AssignedTo": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "System.CreatedDate": "2020-02-28T16:48:43.203Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T23:15:30.36Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 1,
+        "System.Title": "Change background color of each icon on the waffle menu",
+        "System.BoardColumn": "Closed",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 0.5,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-23T23:15:30.36Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-16T17:38:49.933Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.ResolvedDate": "2020-03-18T20:17:57.27Z",
+        "Microsoft.VSTS.Common.ResolvedBy": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "Microsoft.VSTS.Common.ClosedDate": "2020-03-23T23:15:30.36Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.StackRank": 5191956.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Closed",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Description": "<div>Update the background color of each icon as shown in the image below. More details can be found at&nbsp;<a href=\"https://docs.google.com/presentation/d/18p6sIVorshZ83RV4EpQ9upl-wJUxYAnxSRR9wvheTlo/edit#slide=id.g7cd39f65c5_0_0\">https://docs.google.com/presentation/d/18p6sIVorshZ83RV4EpQ9upl-wJUxYAnxSRR9wvheTlo/edit#slide=id.g7cd39f65c5_0_0</a></div><div><br></div><div><img src=\"https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/attachments/2d5dc3eb-bc77-4328-8094-0f41fa3a6add?fileName=image.png\" alt=Image width=386 height=407 style=\"width:386px;height:407px;\"><br></div><div><br></div>",
+        "System.Tags": "CommonHeader"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/51466"
+    },
+    {
+      "id": 51470,
+      "rev": 15,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\Common Header",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Closed",
+        "System.Reason": "Acceptance tests pass",
+        "System.AssignedTo": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "System.CreatedDate": "2020-02-28T16:56:43.373Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T23:15:30.36Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 1,
+        "System.Title": "Click on app will open new browser tab and launch the app",
+        "System.BoardColumn": "Closed",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 0.5,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-23T23:15:30.36Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-16T17:38:49.933Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.ResolvedDate": "2020-03-18T20:17:57.27Z",
+        "Microsoft.VSTS.Common.ResolvedBy": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "Microsoft.VSTS.Common.ClosedDate": "2020-03-23T23:15:30.36Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.StackRank": 5195890.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Closed",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "Microsoft.VSTS.Common.AcceptanceCriteria": "<ol><li>Click on app will open new browser tab and launch the app<br></li><li>If user clicks on current app, it will stay on the current screen<br></li></ol>",
+        "System.Tags": "CommonHeader"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/51470"
+    },
+    {
+      "id": 51468,
+      "rev": 18,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\Common Header",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Closed",
+        "System.Reason": "Acceptance tests pass",
+        "System.AssignedTo": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "System.CreatedDate": "2020-02-28T16:53:09.36Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T23:15:30.36Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 1,
+        "System.Title": "Menu items will be sorted in alphabetical order",
+        "System.BoardColumn": "Closed",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 0.5,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-23T23:15:30.36Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-16T17:38:49.933Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.ResolvedDate": "2020-03-18T20:17:57.27Z",
+        "Microsoft.VSTS.Common.ResolvedBy": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "Microsoft.VSTS.Common.ClosedDate": "2020-03-23T23:15:30.36Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.StackRank": 5199824.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Closed",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Description": "<div>The design is taken from&nbsp;<a href=\"https://docs.google.com/presentation/d/18p6sIVorshZ83RV4EpQ9upl-wJUxYAnxSRR9wvheTlo/edit#slide=id.g7cd39f65c5_0_0\">https://docs.google.com/presentation/d/18p6sIVorshZ83RV4EpQ9upl-wJUxYAnxSRR9wvheTlo/edit#slide=id.g7cd39f65c5_0_0</a></div><div><br></div><div><img src=\"https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/attachments/dd1438dc-e2b5-4fa6-afeb-f577622aabf2?fileName=image.png\" alt=Image width=317 height=434 style=\"width:317px;height:434px;\"><br></div>",
+        "Microsoft.VSTS.Common.AcceptanceCriteria": "<div><ol><li>User will see a menu of application he/she can access to in alphabetical order</li><li>Audit and admin will show at the bottom of the list<br></li></ol></div>",
+        "System.Tags": "CommonHeader"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/51468"
+    },
+    {
+      "id": 54112,
+      "rev": 12,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\Common Header",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Closed",
+        "System.Reason": "Acceptance tests pass",
+        "System.AssignedTo": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "System.CreatedDate": "2020-03-16T20:00:31.71Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T23:15:30.36Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 1,
+        "System.Title": "Show \"Contact Motorola for information\" tooltip for the menu items under Find More Page section",
+        "System.BoardColumn": "Closed",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 0.5,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-23T23:15:30.36Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-16T20:00:41.23Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.ResolvedDate": "2020-03-18T20:17:57.27Z",
+        "Microsoft.VSTS.Common.ResolvedBy": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "Microsoft.VSTS.Common.ClosedDate": "2020-03-23T23:15:30.36Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.StackRank": 5201791.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Closed",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Description": "<div>When users move their mouse pointer to the menu items under &quot;Find more apps&quot;, a tool-tip will appear saying <b>&quot;Contact Motorola for information&quot;</b>.</div><div><br></div><div>You can see where the &quot;Find more apps&quot; is located in the screenshot below.</div><div><span style=\"color:rgb(32, 33, 36);font-family:Roboto, sans-serif;background-color:rgb(248, 249, 250);display:inline !important;\"><br></span><img src=\"https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/attachments/bb48a935-3ddd-4e81-b3cc-ab5f2acaba3a?fileName=image.png\" alt=undefined width=325 height=460 style=\"width:325px;height:460px;\"></div>",
+        "System.Tags": "CommonHeader"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/54112"
+    },
+    {
+      "id": 55361,
+      "rev": 11,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\OperationsDashboard",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Closed",
+        "System.Reason": "Acceptance tests pass",
+        "System.AssignedTo": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "System.CreatedDate": "2020-03-23T15:36:24.973Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T23:05:45.217Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 1,
+        "System.Title": "Update CommonHeader in Operations Dashboard",
+        "System.BoardColumn": "Closed",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 0.5,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-23T23:05:45.217Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-23T15:48:55.24Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "Microsoft.VSTS.Common.ResolvedDate": "2020-03-23T21:13:55.293Z",
+        "Microsoft.VSTS.Common.ResolvedBy": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "Microsoft.VSTS.Common.ClosedDate": "2020-03-23T23:05:45.217Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.Priority": 1,
+        "Microsoft.VSTS.Common.StackRank": 5207374.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Closed",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/55361"
+    },
+    {
+      "id": 53688,
+      "rev": 13,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\OperationsDashboard",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Closed",
+        "System.Reason": "Acceptance tests pass",
+        "System.AssignedTo": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "System.CreatedDate": "2020-03-12T23:30:16.23Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T23:05:27.163Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "Action plans must support tagging",
+        "System.BoardColumn": "Closed",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 1.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-23T23:05:27.163Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-18T17:29:12.923Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "Microsoft.VSTS.Common.ResolvedDate": "2020-03-23T21:15:48.217Z",
+        "Microsoft.VSTS.Common.ResolvedBy": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "Microsoft.VSTS.Common.ClosedDate": "2020-03-23T23:05:27.163Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.Priority": 1,
+        "Microsoft.VSTS.Common.StackRank": 5212957.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Closed",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Description": "<div>We want to be able to tag people in the action plan text fields, as well. Currently, one can only tag people in the tasks and activities.</div><div><br></div><div>Look at the screenshot below:</div><div><img src=\"https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/attachments/085e80aa-94a4-4732-bb4a-e8aac95d215b?fileName=image.png\" alt=Image style=\"width:381px;height:478px;\" width=381 height=478></div>"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/53688"
+    },
+    {
+      "id": 53686,
+      "rev": 17,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\OperationsDashboard",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "Closed",
+        "System.Reason": "Acceptance tests pass",
+        "System.AssignedTo": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "System.CreatedDate": "2020-03-12T23:17:03.397Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T23:04:26.75Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 3,
+        "System.Title": "Show unauthorized page when a person does not belong to any user group with Operation Dashboard capability",
+        "System.BoardColumn": "Closed",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 2.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-23T23:04:26.75Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2020-03-20T18:33:33.88Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "Microsoft.VSTS.Common.ResolvedDate": "2020-03-23T21:13:55.293Z",
+        "Microsoft.VSTS.Common.ResolvedBy": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "Microsoft.VSTS.Common.ClosedDate": "2020-03-23T23:04:26.75Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "Microsoft.VSTS.Common.Priority": 1,
+        "Microsoft.VSTS.Common.StackRank": 5215625.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "Closed",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Description": "<div>Users that are part of user groups that do not have Operations Dashboard capability in CC Admin can still log into the Operations Dashboard, and this behavior is not correct.&nbsp;</div><div><br></div><div>As a user who does not belong to any user group in CC Admin that&nbsp;has Operations Dashboard capability, I should see the following page (The screenshot is taken from CC Aware but the design and the message is what we want for CC Ops Dash as well)</div><div><br></div><div><img src=\"https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/attachments/0301efb5-8ad7-4500-984a-44437ee21e04?fileName=image.png\" alt=Image style=\"width:745px;height:525px;\" width=745 height=525><br></div>",
+        "System.Tags": "Backend; Operations Dashboard; UI"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/53686"
+    },
+    {
+      "id": 52975,
+      "rev": 16,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\OperationsDashboard",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.AssignedTo": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "System.CreatedDate": "2020-03-10T02:09:14.403Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T22:47:15.89Z",
+        "System.ChangedBy": {
+          "displayName": "Tumen Tumurchudur",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+            }
+          },
+          "id": "9b2ff36c-6749-6105-8b8d-39b6d943ac13",
+          "uniqueName": "DGNR38@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz",
+          "descriptor": "aad.OWIyZmYzNmMtNjc0OS03MTA1LThiOGQtMzliNmQ5NDNhYzEz"
+        },
+        "System.CommentCount": 3,
+        "System.Title": "Show Snoozed By and Archived Date columns",
+        "System.BoardColumn": "New",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 1.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-10T02:09:14.403Z",
+        "Microsoft.VSTS.Common.Priority": 1,
+        "Microsoft.VSTS.Common.StackRank": 5218293.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "New",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Description": "<div>We need to add the following new columns to the table component of their respective tabs in the Operations Dashboard:</div><div><ol><li>&quot;Archived Date&quot; column under Archive tab</li><li>&quot;Snoozed By&quot; column under Snoozed tab.</li></ol><div><br></div></div>"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/52975"
+    },
+    {
+      "id": 51790,
+      "rev": 16,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\LexisNexis Connector",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.AssignedTo": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CreatedDate": "2020-03-02T21:53:02.47Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-18T01:01:07.63Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "E2E Testing for BDP and LexisNexisConnector Integration",
+        "System.BoardColumn": "New",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 2.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-02T21:53:02.47Z",
+        "Microsoft.VSTS.Common.Priority": 1,
+        "Microsoft.VSTS.Common.StackRank": 5220961.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "New",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/51790"
+    },
+    {
+      "id": 50191,
+      "rev": 21,
+      "fields": {
+        "System.AreaPath": "Predictive\\Bearcats\\AlertsService",
+        "System.TeamProject": "Predictive",
+        "System.IterationPath": "Predictive\\Bearcats\\Sprint 7",
+        "System.WorkItemType": "Bug",
+        "System.State": "New",
+        "System.Reason": "Investigation Complete",
+        "System.AssignedTo": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CreatedDate": "2020-02-21T17:07:48.03Z",
+        "System.CreatedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.ChangedDate": "2020-03-23T20:02:59.647Z",
+        "System.ChangedBy": {
+          "displayName": "Tarik Guney",
+          "url": "https://spsprodcus2.vssps.visualstudio.com/Aee6a8262-2e09-489a-903a-a57a894c6803/_apis/Identities/daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+            }
+          },
+          "id": "daa18f04-744a-4fc2-b972-39f4ae815de6",
+          "uniqueName": "DWQB67@motorolasolutions.com",
+          "imageUrl": "https://dev.azure.com/msi-cie/_apis/GraphProfile/MemberAvatars/aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2",
+          "descriptor": "aad.YjQyY2E2ZjQtNTdiYi03NGE0LWE5OWEtZDUwMDAwZDkzZTI2"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "Http and Https issue in AlertsService",
+        "System.BoardColumn": "New",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Scheduling.StoryPoints": 2.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-03-01T18:05:19.46Z",
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.Severity": "3 - Medium",
+        "Microsoft.VSTS.Common.StackRank": 5221628.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column": "New",
+        "WEF_4E7078DD40764226A2B21C991EA41797_Kanban.Column.Done": false,
+        "System.Tags": "AlertsService; Operations Dashboard"
+      },
+      "url": "https://dev.azure.com/msi-cie/b0bef573-94e1-4525-87cc-ff5faf6ba5b0/_apis/wit/workItems/50191"
+    }
+  ]
+}
