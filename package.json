@@ -1,5 +1,5 @@
 {
-  "name": "tasks-board",
+  "name": "ng-curd-api",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
