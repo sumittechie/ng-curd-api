@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 import { PostsComponent } from './posts/posts.component';
 import { Routes, RouterModule } from '@angular/router';
 import { MaterialModule } from 'src/app/material.module';
-import { ActionBarModule, PageModule, ActionBtnModule } from 'src/app/shared/layouts';
+import { ActionBarModule, PageModule, ActionBtnModule, SpinnerModule } from 'src/app/shared/layouts';
 
 const routs: Routes = [
   {
@@ -16,6 +16,7 @@ const routs: Routes = [
   imports: [
     PageModule,
     CommonModule,
+    SpinnerModule,
     MaterialModule,
     ActionBarModule,
     ActionBtnModule,

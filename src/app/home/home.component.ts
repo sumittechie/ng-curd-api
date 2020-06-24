@@ -7,13 +7,12 @@ import { LoginService } from "../login/login.service";
   styleUrls: ["./home.component.scss"]
 })
 export class HomeComponent implements OnInit, OnDestroy {
-  isLoading = true;
+
   constructor(
     private _loginService: LoginService,
   ) { }
 
   ngOnInit(): void {
-    this.isLoading = false;
 
   }
 

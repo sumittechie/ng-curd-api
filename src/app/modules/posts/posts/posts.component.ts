@@ -9,13 +9,21 @@ import { MatAccordion } from '@angular/material/expansion';
   styleUrls: ['./posts.component.scss']
 })
 export class PostsComponent implements OnInit {
-  posts: any;
+
+  posts: any[];
+  isLoading: boolean = false;
+
   @ViewChild(MatAccordion) accordion: MatAccordion;
 
   constructor(private _service: PostsService) { }
 
   ngOnInit(): void {
-    this._service.get().pipe(take(1)).subscribe(posts => this.posts = posts);
+    this.isLoading = true;
+    
+    this._service.get().pipe(take(1)).subscribe(posts => {
+      this.posts = posts;
+      this.isLoading = false;
+    });
   }
 
 }
