@@ -15,6 +15,14 @@ const routes: Routes = [
         path: 'posts',
         loadChildren: () => import('./modules/posts/posts.module').then(m => m.PostsModule)
       },
+      {
+        path: 'comments',
+        loadChildren: () => import('./modules/comments/comments.module').then(m => m.CommentsModule)
+      },
+      {
+        path: 'albums',
+        loadChildren: () => import('./modules/albums/albums.module').then(m => m.AlbumsModule)
+      }
     ]
   },
   { path: 'login', component: LoginComponent },
