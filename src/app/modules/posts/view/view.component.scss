@@ -1,0 +1,23 @@
+.post-view {
+  border: 1px #aaa solid;
+  background-color: #fff;
+  .title {
+    background-color: #555;
+    color: #fff;
+    padding: 15px;
+  }
+  .body {
+    padding: 15px;
+  }
+}
+
+.post-comments {
+  margin-top: 30px;
+  .comment {
+    margin-bottom: 30px;
+    .example-header-image {
+      background-image: url("https://material.angular.io/assets/img/examples/shiba1.jpg");
+      background-size: cover;
+    }
+  }
+}

@@ -19,7 +19,7 @@ export class PostsComponent implements OnInit {
 
   ngOnInit(): void {
     this.isLoading = true;
-    
+
     this._service.get().pipe(take(1)).subscribe(posts => {
       this.posts = posts;
       this.isLoading = false;

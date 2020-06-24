@@ -1,0 +1,34 @@
+<action-bar></action-bar>
+<page>
+  <div class="post-view" *ngIf="post">
+    <div class="row title">
+      <div class="col-md-12">{{ post.title }}</div>
+    </div>
+    <div class="row body">
+      <div class="col-md-12">{{ post.body }}</div>
+    </div>
+  </div>
+  <div class="post-comments" *ngIf="comments.length > 0">
+    <div
+      fxLayout="row wrap"
+      fxFlexAlign="space-between center"
+      fxLayoutGap="25px"
+    >
+      <ng-container *ngFor="let comment of comments; let i = index">
+        <div fxFlex="30">
+          <mat-card fxflexfill class="comment">
+            <mat-card-header>
+              <div mat-card-avatar class="example-header-image"></div>
+              <mat-card-title>{{ comment.name }}</mat-card-title>
+              <mat-card-subtitle>{{ comment.email }}</mat-card-subtitle>
+            </mat-card-header>
+            <mat-card-content>
+              <p>{{ comment.body }}</p>
+            </mat-card-content>
+          </mat-card>
+        </div>
+      </ng-container>
+    </div>
+  </div>
+</page>
+<spinner [show]="isLoading"></spinner>
